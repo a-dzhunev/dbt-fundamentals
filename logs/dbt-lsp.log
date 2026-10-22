@@ -1,0 +1,9 @@
+==================== 2026-10-13T13:52:57.033038Z | 00000000-0000-0000-0000-000000000000 ====================
+==================== 2026-10-13T13:52:57.033223Z | 7dcdde81-75cb-40f3-87c7-5d28d5f6ccd0 ====================
+13:52:57.033245 [info ]: Starting dbt LSP server
+13:52:57.033261 [info ]: Connecting to LSP client on port 8000
+13:52:57.037889 [info ]: Successfully connected to LSP client
+13:52:57.037910 [info ]: Creating LSP service...
+13:52:57.040575 [info ]: Creating LSP server...
+13:52:57.040597 [info ]: Starting LSP server...
+13:53:08.028947 [debug]: Ignoring unsupported LSP notification
